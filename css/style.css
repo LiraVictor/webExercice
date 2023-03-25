@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(255, 243, 134);
+}
+
+fieldset{
+    background-color: rgba(121, 211, 253, 0.267);
+    border-radius: 10px;
+    border: 2px;
+}
+
+.button {
+    border: 1px solid black;
+    margin-left: 45px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 5px;
+
+}
+
+.button2 {
+    border: 1px solid black;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 5px;
+
+}
+
+.form {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    width: 950px;
+}
+
+.components {
+    margin-bottom: 5px;
+}
+
+.division {
+    margin: 15px 0px;
+}
+
+.externo{
+    height: 500px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.externoOne{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.interno {
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10pt;
+    padding: 20pt;
+}
+
+img{
+    width: 50pt;
+    margin: 5pt;
+}
+
+h3{
+    font-size: 20pt;
+    margin: 0;
+    color: rgb(43,42,42);
+}
+
+p{
+    font-size: 15pt;
+    margin: 0;
+    color: gray;
+}
